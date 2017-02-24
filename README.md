@@ -1,5 +1,5 @@
 # Gridfull
-## A WebExtension to see css structure by outlining. For css debug purposes. By [Boon](http://simboonlong.com/)
+A WebExtension to see css structure by outlining. For css debug purposes.
 
 - requires Chrome Browser.
 
@@ -34,3 +34,9 @@
 Pesticide @ [https://github.com/mrmrs/pesticide](https://github.com/mrmrs/pesticide).
 
 
+## License
+gridfull-extension is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+
+
+## Contributing
+Feel free to contribute.
