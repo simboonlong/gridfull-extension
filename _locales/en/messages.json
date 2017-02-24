@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Gridfull",
+    "description": "Gridfull"
+  },
+  "appDescription": {
+    "message": "A WebExtension to see css structure by outlining. For css debug purposes.",
+    "description": "A WebExtension to see css structure by outlining. For css debug purposes."
+  }
+}

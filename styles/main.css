@@ -1,0 +1,30 @@
+/***********
+general styles
+***********/
+body {
+    font-size: 10px;
+}
+.gridfull {
+    width: 196px;
+    height: 266px;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+    li {
+        list-style-type: none;
+        margin-bottom: 6px;
+    }
+h1 {
+    font-size: 13px;
+    margin: 0 0 6px 0;
+}
+
+/***********
+overwrite spectrum styles
+***********/
+.sp-palette-button-container,
+.sp-button-container {
+    display: none;
+}
